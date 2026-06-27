@@ -1,30 +1,302 @@
 
+<div align="center">
 
-💫 About Me:
-Problem solver <br>C++<br>Python <br>Javascript <br>MERN
+# Hi 👋 I'm Khetesh Deore
+
+### Software Engineer • Full Stack Developer • AI Engineer
+
+🚀 Final-Year B.Tech Computer Engineering Student  
+🏫 KK Wagh Institute of Engineering Education and Research, Nashik   
+🏆 National Hackathon Winner | AI Builder | MERN Developer
+
+<p align="center">
+<a href="https://github.com/Khetesh-Deore"><img src="https://img.shields.io/github/followers/Khetesh-Deore?label=Follow&style=for-the-badge"></a>
+<a href="https://github.com/Khetesh-Deore"><img src="https://komarev.com/ghpvc/?username=Khetesh-Deore&style=for-the-badge&color=blue"></a>
+</p>
+
+<p align="center">
+
+<a href="https://linkedin.com/in/khetesh-deore">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:khetesh.works@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/Deore_Khetesh/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://codeforces.com/profile/kheteshsamadhandeore">
+<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge"/>
+</a>
+
+</p>
+
+</div>
+
+---
+
+# 💫 About Me
+
+I am a **Software Engineer** passionate about building scalable web applications, AI-powered systems, and solving challenging algorithmic problems.
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Khetes-deore)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kheteshsamadhandeore@gmail.com) 
+- 🚀 MERN Stack Developer
+- 🤖 AI & LLM Application Developer
+- 🧠 Strong foundation in DSA, OOP, DBMS, OS & Computer Networks
+- 🏆 National Level Hackathon Winner
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Khetesh-deore&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Khetesh-deore&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Khetesh-deore&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Khetesh-deore&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+# 🏆 Achievements
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+🥇 Winner — **SRiJAN 2026 (ATOS Digital Apps Track)**
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Khetesh-deore&limit=5&theme=dark&combine_all_yearly_contributions=true)
+🥈 Runner-up — **AI Innovation Sprint 2026**
 
 
-[![](https://visitcount.itsvg.in/api?id=Khetesh-deore&icon=0&color=0)](https://visitcount.itsvg.in)
+🥇 Winner — **Innovera National Hackathon 2025**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->--
+🏅 Finalist — **Smart India Hackathon 2024**
+
+🏅 Zonal Finalist — **E-Cell IIT Bombay NEC 2025**
+
+
+---
+
+# 🚀 Featured Projects
+
+## 🔹 DevFlow — Competitive Programming Platform
+
+A production-ready online coding platform used by **40+ students**.
+
+### Features
+
+- Monaco Code Editor
+- Live Coding Contests
+- Real-time Leaderboard
+- Anti-Cheat Proctoring
+- Student Dashboard
+- Submission Analytics
+
+**Tech Stack**
+
+```
+React
+Node.js
+Express
+MongoDB
+Socket.IO
+Render
+Vercel
+```
+
+---
+
+## 🔹 eVoteFace — Blockchain Voting Platform
+
+A decentralized voting system secured using **Triple Authentication**.
+
+### Features
+
+- Solidity Smart Contracts
+- MetaMask Login
+- Face Recognition
+- OTP Authentication
+- Real-time Vote Counting
+
+**Tech Stack**
+
+```
+React
+Node.js
+MongoDB
+Solidity
+Web3.js
+```
+
+---
+
+## 🔹 ATLAS — AI Powered AIOps Platform
+
+Winner project of **SRiJAN 2026**
+
+### Features
+
+- LangGraph Agent Workflow
+- Neo4j Knowledge Graph
+- Root Cause Analysis
+- Incident Automation
+- Confidence Scoring
+- Rollback Engine
+
+**Tech Stack**
+
+```
+Python
+FastAPI
+LangGraph
+Neo4j
+React
+LLM APIs
+ChromaDB
+```
+
+---
+
+# 💻 Tech Stack
+
+## Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=cpp,python,javascript"/>
+
+</p>
+
+## Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,html,css"/>
+
+</p>
+
+## Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi"/>
+
+</p>
+
+## Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+
+</p>
+
+## AI / ML
+
+- LangGraph
+- LLM APIs
+- ChromaDB
+- Neo4j
+- Machine Learning
+
+
+## Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,postman"/>
+
+</p>
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Khetesh-Deore&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=Khetesh-Deore&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khetesh-Deore&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Khetesh-Deore&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🎓 Education
+
+**B.Tech Computer Engineering (Honours in Quantum Computing)**
+
+KK Wagh Institute of Engineering Education and Research
+
+**2023 – 2027**
+
+CGPA **8.77**
+
+---
+
+# 💼 Experience
+
+## Software Engineer Intern — XMEGA
+
+**Jan 2026 – June**
+
+- Developed scalable MERN applications
+- Improved performance and maintainability
+- Applied Machine Learning to automate workflows
+- Collaborated with remote engineering teams
+
+---
+
+# 👨‍💼 Leadership
+
+- Treasurer — Debuggers' Club
+- Google Student Ambassador
+- Member — Young Indians (YI KKWIEER)
+
+---
+
+
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="mailto:khetesh.works@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/khetesh-deore">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Khetesh-Deore">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://leetcode.com/u/Deore_Khetesh/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ "First, solve the problem. Then, write the code."
+
+
+
+</div>
 
